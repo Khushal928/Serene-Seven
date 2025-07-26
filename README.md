@@ -1,2 +1,1 @@
-# Serene-Seven
-Hello, From Abinav
+This is a website that shows beauty of seven sisters
